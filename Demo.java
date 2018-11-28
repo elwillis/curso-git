@@ -1,5 +1,5 @@
 import java.util.Collections;
 
-public class PlayaDeCarga {
+public class Demo {
     
 }
